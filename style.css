@@ -1,0 +1,19 @@
+.html{
+    margin: 0, auto;
+    width: 1024px;
+}
+
+#capsite{
+        width: 100%;
+        height: 200px;
+        background-color: blue;
+      
+
+}
+h1{
+    color: white;
+  font: 40px Georgia; 
+  text-align: center;
+  padding: 50px;
+
+}
